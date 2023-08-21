@@ -41,7 +41,7 @@ Note: It's only configured for CUDA (Nvidia)
   * .\venv\Scripts\activate
 * Install requirements
   * .\venv\Scripts\pip.exe install -r .\requirements.txt
-* Place [GFPGANv1.4.onnx](https://github.com/RichardErkhov/rope/releases/download/models/GFPGANv1.4.onnx), [inswapper_128_fp16.onnx](https://github.com/RichardErkhov/rope/releases/download/models/inswapper_128.fp16.onnx), and [occluder.ckpt](https://github.com/RichardErkhov/rope/releases/download/models/occluder.ckpt) in the root directory
+* Place [GFPGANv1.4.onnx](https://github.com/RichardErkhov/rope/releases/download/models/GFPGANv1.4.onnx), [inswapper_128_fp16.onnx](https://github.com/RichardErkhov/rope/releases/download/models/inswapper_128.fp16.onnx), and [occluder.ckpt](https://github.com/RichardErkhov/rope/releases/download/models/occluder.ckpt) in the `weights/` directory
 * Do this if you've never installed roop or Rope (or any other onnx runtimes):
   * Install CUDA Toolkit 11.8
   * Install dependencies:

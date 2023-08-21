@@ -1,9 +1,12 @@
-![Screenshot 2023-08-04 212706](https://github.com/Hillobar/Rope/assets/63615199/114b4073-9a25-42cc-844d-1afc3625907b)
+# THIS IS NOT OFFICIAL REPOSITORY. ORIGINAL REPO WAS DELETED AND THE OWNER IS NOT ANSWERING
+## anyway, thanks [hillobar](https://github.com/Hillobar) for creating rope, please answer to us, did someone kidnap you?
+### richard Discord link: [Discord]([https://discord.gg/5CxhgRKBdN](https://discord.gg/hzrJBGPpgN))
+#### I do not hape backup of images, sorry
+
+
 
 # Rope
 Rope implements the insightface inswapper_128 model with a helpful GUI.
-### Discord link: ###
-[Discord](https://discord.gg/5CxhgRKBdN)
 
 ### Features: ###
 * Ugly GUI, but incredible features and fast workflow
@@ -25,13 +28,6 @@ Rope implements the insightface inswapper_128 model with a helpful GUI.
 ### Known bugs: ### 
 * Stop video playback before loading a new video, or bork
 
-### Preview: ###
-![Screenshot 2023-08-05 154156](https://github.com/Hillobar/Rope/assets/63615199/921698ab-af0e-43ca-b669-a2b2537d5c0f)
-### Getting Started: ###
-![Screenshot 2023-08-05 152851](https://github.com/Hillobar/Rope/assets/63615199/68b4ec4e-615f-4fd6-9215-f5a2ae8314b4)
-### Features: ###
-![Screenshot 2023-08-05 152835](https://github.com/Hillobar/Rope/assets/63615199/4e64237e-7d0f-4a83-a738-64b0df206766)
-
 ### Disclaimer: ###
 Rope is a personal project that I'm making available to the community as a thank you for all of the contributors ahead of me. I don't have time to troubleshoot or add requested features, so it is provided as-is. Don't look at this code for example of good coding practices. I am primarily focused on performance and my specific use cases. There are plenty of ways to bork the workflow. Please see how to use below.
 
@@ -43,7 +39,7 @@ Note: It's only configured for CUDA (Nvidia)
   * .\venv\Scripts\activate
 * Install requirements
   * .\venv\Scripts\pip.exe install -r .\requirements.txt
-* Place [GFPGANv1.4.onnx](https://github.com/Hillobar/Rope/releases/download/Space_Worm/GFPGANv1.4.onnx), [inswapper_128_fp16.onnx](https://github.com/Hillobar/Rope/releases/download/Space_Worm/inswapper_128.fp16.onnx), and [occluder.ckpt](https://github.com/Hillobar/Rope/releases/download/Space_Worm/occluder.ckpt) in the root directory
+* Place [GFPGANv1.4.onnx](https://github.com/RichardErkhov/rope/releases/download/models/GFPGANv1.4.onnx), [inswapper_128_fp16.onnx](https://github.com/RichardErkhov/rope/releases/download/models/inswapper_128.fp16.onnx), and [occluder.ckpt](https://github.com/RichardErkhov/rope/releases/download/models/occluder.ckpt) in the root directory
 * Do this if you've never installed roop or Rope (or any other onnx runtimes):
   * Install CUDA Toolkit 11.8
   * Install dependencies:

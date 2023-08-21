@@ -1,6 +1,6 @@
 # THIS IS NOT OFFICIAL REPOSITORY. ORIGINAL REPO WAS DELETED AND THE OWNER IS NOT ANSWERING
 ## anyway, thanks [hillobar](https://github.com/Hillobar) for creating rope, please answer to us, did someone kidnap you?
-### richard Discord link: [Discord](https://discord.gg/hzrJBGPpgN)
+## Richard Discord link: [Discord](https://discord.gg/hzrJBGPpgN)
 #### I do not hape backup of images, sorry
 
 

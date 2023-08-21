@@ -1,7 +1,7 @@
 # THIS IS NOT OFFICIAL REPOSITORY. ORIGINAL REPO WAS DELETED AND THE OWNER IS NOT ANSWERING
 ## anyway, thanks [hillobar](https://github.com/Hillobar) for creating rope, please answer to us, did someone kidnap you?
 ## Richard Discord link: [Discord](https://discord.gg/hzrJBGPpgN)
-### The repo is not maintained, as Im developing my own tool, called [FastFaceSwap](https://github.com/RichardErkhov/FastFaceSwap) (actually rope was inspired by it, he told me)
+### The repo is not maintained, as Im developing my own tool, called [FastFaceSwap](https://github.com/RichardErkhov/FastFaceSwap) (actually rope was inspired by it, he told me). But I will help with troubleshooting if you have any issues.
 
 #### I do not hape backup of images, sorry
 

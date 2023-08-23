@@ -1,4 +1,4 @@
-# THIS IS NOT OFFICIAL REPOSITORY. ORIGINAL REPO WAS DELETED AND THE OWNER IS NOT ANSWERING
+# THIS IS NOT OFFICIAL REPOSITORY. ORIGINAL REPO WAS DELETED AND THE OWNER IS NOT ANSWERING. Should I maintain it? Tell me in discord if you want me to add something, I will see what I will do
 ## anyway, thanks [hillobar](https://github.com/Hillobar) for creating rope, please answer to us, did someone kidnap you?
 ## Richard Discord link: [Discord](https://discord.gg/hzrJBGPpgN)
 ### The repo is not maintained (unless you ask me very much and I will do something with rope, maybe some update? Anyway including occluder and clip in FFS soon), as Im developing my own tool, called [FastFaceSwap](https://github.com/RichardErkhov/FastFaceSwap) (actually rope was inspired by it, he told me). But I will help with troubleshooting if you have any issues.
